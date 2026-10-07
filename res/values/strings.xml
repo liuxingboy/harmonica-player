@@ -1,0 +1,1 @@
+<resources><string name="service_description">根据选定 MIDI 模拟口风琴琴键触摸。仅在三角洲行动前台、横屏时演奏；切换应用自动停止。窗口内容仅用于检查前台应用，截图仅用于检查琴键模式，不保存或上传。</string></resources>
